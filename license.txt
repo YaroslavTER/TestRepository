@@ -1,3 +1,5 @@
 file 
 
 ghjk
+
+.git/.COMMIT_EDITMSG.swp
